@@ -1,0 +1,26 @@
+# Ignore large dataset files
+Source_code/Calculate_and_Analysis/Calculate_Analysis/final_dataset_complete.csv
+Source_code/Calculate_and_Analysis/Calculate_Analysis/final_dataset_step3b_proper_noun.csv
+Source_code/Calculate_and_Analysis/Calculate_Analysis/final_dataset_step3_labeled.csv
+Source_code/Calculate_and_Analysis/Calculate_Analysis/final_dataset_step3c_hanviet.csv
+Source_code/Calculate_and_Analysis/Calculate_Analysis/final_dataset_step3a_phienam.csv
+Source_code/Calculate_and_Analysis/Calculate_Analysis/final_dataset_step3d_vietnamese.csv
+Source_code/Calculate_and_Analysis/Calculate_Analysis/final_dataset_step3e_english.csv
+Source_code/Data_Standardized/nhacvn_refill_urls/final_dataset_no_nhacvn.csv
+Source_code/Data_Crawler/tkaraoke/tkaraoke.db
+
+# Ignore OS and IDE files
+.DS_Store
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.csv
+*.db
+.qodo/
+.env
+
+# Ignore virtual environments
+venv/
+env/
