@@ -277,23 +277,10 @@ Removes conflicts between 6 dictionaries:
 
 ## 👥 Contributors
 
-- Nguyen Quoc Binh - 52200275
-- [Collaborator] - 52200209
-
----
-
-## 📄 License
-
-[Add your license information here]
-
----
-
-## 🤝 Contributing
-
-[Add contribution guidelines here]
-
----
+- Nguyen Quoc Binh - GVHD
+- Phan Van Quoc Dinh - 52200209
+- Nguyen Hoang Khanh Duy - 52200275
 
 ## 📧 Contact
 
-[Add contact information here]
+NguyenDuy - nduy6374@gmail.com
